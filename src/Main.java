@@ -34,7 +34,7 @@ public class Main {
             for (int i = 0; i < 12; i ++){
                 total =total + total/100;
                 total = total + salali;
-                System.out.println(" месяц " + i + " сумма накоплений " + total + " рублей");
+                System.out.println(" месяц " + i + " сумма накоплений " + total + " рублей ");
             }System.out.println(total);
             System.out.println(" задача10");
             int a = 2;
